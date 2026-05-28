@@ -52,7 +52,7 @@ project/
 Clone the repository:
 
 ```bash
-git clone <your_repo_url>
+git clone <https://github.com/JEREMIAHCHUKWUEMEKA/intelligent-ecommerce-data-extraction-system.git>
 cd intelligent-ecommerce-scraper
 ```
 
